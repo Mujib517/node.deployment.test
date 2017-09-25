@@ -11,7 +11,7 @@ function handelRequest(req, res) {
 
 var server = http.createServer(handelRequest);
 
-var port = process.env.port | 3000;
+var port = process.env.PORT | 3000;
 
 server.listen(port, function () {
     console.log("running...");
