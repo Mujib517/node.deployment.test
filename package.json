@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "MD M Rahman <mujib517@gmail.com>",
